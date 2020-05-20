@@ -1,3 +1,7 @@
+Update for scrobble with a bash script (single song or with song list)
+
+_______________________________________________________________________
+
 This is a client library for scrobbling to Last.fm.
 
 It uses the old Submissions protocol (a.k.a "Scrobble 1") documented at http://www.last.fm/api/submissions
